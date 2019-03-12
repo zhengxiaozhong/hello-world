@@ -1,2 +1,2 @@
 # hello-world
-hello_world
+sun is red
